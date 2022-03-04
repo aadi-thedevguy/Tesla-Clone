@@ -1,5 +1,5 @@
 # Description
-This is a clone of the Tesla Web Application
+A HomePage clone of the Tesla Web Application
 
 ## Technologies Used
 <ul>
